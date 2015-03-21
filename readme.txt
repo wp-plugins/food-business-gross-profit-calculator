@@ -13,16 +13,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 First of all this plugin is requested by my beautiful girlfriend CJ Ancog.
-She loves to bake cupcakes and planning create a profit out of it.
+She loves to bake cupcakes and planning to create a profit out of it.
 
-This is a plugin for users who are planning for starting food business and ideal for cooking and baking websites.
+This is a plugin for users who are planning on starting food business and ideal for websites about cooking, baking and any that may apply such calculation.
 Create recipe post types, add ingredients with measurements, costs and the number of servings that it'll make.
 Calculates price per serving or pieces given the Gross profit.
 
 Users may provide instructions on how to bake or cook the menu/pastry using youtube videos, images or text inside body textarea.
 
-User's also provides date that the calculation may expires due to price adjustments.
+Admin are notified when updates on the prices reached more than 6 months and may expires due to price adjustments.
 
+You can visit for more info : http://www.sherkspear.com/portfolio-item/food-business-gross-profit-calculator-plugin/
 
 == Installation ==
 

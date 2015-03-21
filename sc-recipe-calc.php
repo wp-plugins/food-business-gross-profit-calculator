@@ -2,11 +2,11 @@
 /*
 Plugin Name: Food Business Gross Profit Calculator
 Plugin URI: http://www.sherkspear.com/plugins/sc-food-business-calc
-Description: This is a plugin for users who are planning for starting food business and ideal for cooking and baking websites.
+Description: This is a plugin for users who are planning on starting food business and ideal for websites about cooking, baking and any that may apply such calculation.
 Create recipe post types, add ingredients with measurements, costs and the number of servings that it'll make.
 Calculates price per serving or pieces given the Gross profit.
 Users may provide instructions on how to bake or cook the menu/pastry using youtube videos, images or text inside body textarea.
-User's also provides date that the calculation may expires due to price adjustments.
+Admin are notified when updates on the prices reached more than 6 months and may expires due to price adjustments.
 Version: 1.0
 Author: Sherwin Calims
 Author URI: http://www.sherkspear.com
