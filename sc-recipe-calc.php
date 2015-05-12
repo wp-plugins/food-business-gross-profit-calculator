@@ -7,7 +7,7 @@ Create recipe post types, add ingredients with measurements, costs and the numbe
 Calculates price per serving or pieces given the Gross profit.
 Users may provide instructions on how to bake or cook the menu/pastry using youtube videos, images or text inside body textarea.
 Admin are notified when updates on the prices reached more than 6 months and may expires due to price adjustments.
-Version: 1.0
+Version: 1.1
 Author: Sherwin Calims
 Author URI: http://www.sherkspear.com
 
@@ -61,6 +61,8 @@ class SCRecipe {
 
 		//Load javascripts and stylesheets
 		require "includes/SCRecipeCssJsScripts.php";
+		
+		require "includes/SCRecipeMenu.php";
 
 	}
 

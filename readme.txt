@@ -3,8 +3,8 @@ Contributors: sherkspear
 Donate link: http://www.sherkspear.com/donate/
 Tags: food, business, calculators, ingredients, recipe, profit, cost, investments, cooking, baking, gross calculator, gross profit
 Requires at least: 3.0.1
-Tested up to: 4.1
-Stable tag: 1.0
+Tested up to: 4.2.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -58,6 +58,8 @@ Certainly and would love to hear about it. You can contact me through my officia
 
 
 == Changelog ==
+= 1.1 =
+* Updated with the How to Use menu
 
 = 1.0 =
 * An initial update with the features added.
